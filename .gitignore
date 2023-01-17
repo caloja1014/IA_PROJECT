@@ -1,0 +1,6 @@
+data/*
+.env
+data_landsat/*
+output_path/*
+ignore/*
+trained_models/*
